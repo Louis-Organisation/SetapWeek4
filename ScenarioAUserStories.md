@@ -5,14 +5,14 @@
 * Does client want music genre to update in background or when app is opened
 
 "how would you use this"
-> i'd want to associate some type of weather with artist or type of music (Genre). I want this to be configurable
+> i'd want to associate some type of weather with artist or type of music (Genre). I want this to be configurable  
 "Would you like new artists recommended"
-> Yes, and i'd like this to be able to be associated with weather type
+> Yes, and i'd like this to be able to be associated with weather type  
 "Would you prefer to configure manually or have music set automatically"
-> I'd prefer to have to option to set the genre/artists manually
+> I'd prefer to have to option to set the genre/artists manually  
 "do you want music genre to automatically in bg or when you open the app"
-> I'd like the app to update based on weather automatically without input
+> I'd like the app to update based on weather automatically without input  
 "do you want to be able to import playlists"
-> I would want to import (e.g. from spotify)
+> I would want to import (e.g. from spotify)  
 "how would you use spotify" (not actually asked but part of further discussion)
-> It starts when i turn on my laptop then it plays in bg without me noticing
+> It starts when i turn on my laptop then it plays in bg without me noticing  
