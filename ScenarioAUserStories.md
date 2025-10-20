@@ -25,7 +25,7 @@
 > It starts when i turn on my laptop then it plays in bg without me noticing  
 ## User stories
 George:
-* I want to have particular genres/artists play during certain weather, and I want to decide how these are associated
-* I want to have new artists/music recommended to me, configurable on a per-weather basis
-* I want music to update dynamically based on the weather without any input
+* I must have particular genres/artists play during certain weather, and I want to decide how these are associated
+* I should have new artists/music recommended to me, configurable on a per-weather basis
+* Music artist/genre should update dynamically based on the weather without any input
 * I would like to be able to import playlists from different streaming services
